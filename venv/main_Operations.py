@@ -1,10 +1,10 @@
-from class_func import Rectangle
-from class_func import Triangle
-from class_func import Rhombus
-from class_func import Circle
-from class_func import Trapezium
-from class_func import Parallelogram
-from class_func import Square
+from classes_func import Rectangle
+from classes_func import Triangle
+from classes_func import Rhombus
+from classes_func import Circle
+from classes_func import Trapezium
+from classes_func import Parallelogram
+from classes_func import Square
 
 
 def main():
